@@ -1,3 +1,3 @@
-### Ai financial assistant
+### This is the starter for react native project
 
-This is the ai financial assistant mobile app. You can can track expenses, income and consult the ai chatbot for financial advice.
+this is is the starter code for react native containing nativewind, app router and other configurations
